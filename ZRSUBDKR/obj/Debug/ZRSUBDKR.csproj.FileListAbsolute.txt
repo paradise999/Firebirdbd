@@ -1,0 +1,56 @@
+d:\users\parad\documents\visual studio 2015\Projects\ZRSUBDKR\ZRSUBDKR\bin\Debug\ZRSUBDKR.exe.config
+d:\users\parad\documents\visual studio 2015\Projects\ZRSUBDKR\ZRSUBDKR\bin\Debug\ZRSUBDKR.exe
+d:\users\parad\documents\visual studio 2015\Projects\ZRSUBDKR\ZRSUBDKR\bin\Debug\ZRSUBDKR.pdb
+d:\users\parad\documents\visual studio 2015\Projects\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.csprojResolveAssemblyReference.cache
+d:\users\parad\documents\visual studio 2015\Projects\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.Form1.resources
+d:\users\parad\documents\visual studio 2015\Projects\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.Form2.resources
+d:\users\parad\documents\visual studio 2015\Projects\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.Properties.Resources.resources
+d:\users\parad\documents\visual studio 2015\Projects\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.csproj.GenerateResource.Cache
+d:\users\parad\documents\visual studio 2015\Projects\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.exe
+d:\users\parad\documents\visual studio 2015\Projects\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.pdb
+d:\users\parad\documents\visual studio 2015\Projects\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.Form3.resources
+d:\users\parad\documents\visual studio 2015\Projects\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.Form4.resources
+d:\users\parad\documents\visual studio 2015\Projects\ZRSUBDKR\ZRSUBDKR\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+d:\users\parad\documents\visual studio 2015\Projects\ZRSUBDKR\ZRSUBDKR\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+D:\Users\parad\Desktop\Учёба\Предметы\ЗРСУБД\ZRSUBDKR\ZRSUBDKR\bin\Debug\ZRSUBDKR.exe.config
+D:\Users\parad\Desktop\Учёба\Предметы\ЗРСУБД\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.exe
+D:\Users\parad\Desktop\Учёба\Предметы\ЗРСУБД\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.pdb
+D:\Users\parad\Desktop\Учёба\Предметы\ЗРСУБД\ZRSUBDKR\ZRSUBDKR\bin\Debug\ZRSUBDKR.exe
+D:\Users\parad\Desktop\Учёба\Предметы\ЗРСУБД\ZRSUBDKR\ZRSUBDKR\bin\Debug\ZRSUBDKR.pdb
+D:\Users\parad\Desktop\Учёба\Предметы\ЗРСУБД\ZRSUBDKR\ZRSUBDKR\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+D:\Users\parad\Desktop\Учёба\Предметы\ЗРСУБД\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.csprojResolveAssemblyReference.cache
+D:\Users\parad\Desktop\Учёба\Предметы\ЗРСУБД\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.Form1.resources
+D:\Users\parad\Desktop\Учёба\Предметы\ЗРСУБД\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.Form2.resources
+D:\Users\parad\Desktop\Учёба\Предметы\ЗРСУБД\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.Form3.resources
+D:\Users\parad\Desktop\Учёба\Предметы\ЗРСУБД\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.Form4.resources
+D:\Users\parad\Desktop\Учёба\Предметы\ЗРСУБД\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.Properties.Resources.resources
+D:\Users\parad\Desktop\Учёба\Предметы\ЗРСУБД\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.csproj.GenerateResource.Cache
+E:\ZRSUBDKR\ZRSUBDKR\bin\Debug\ZRSUBDKR.exe.config
+E:\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.exe
+E:\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.pdb
+E:\ZRSUBDKR\ZRSUBDKR\bin\Debug\ZRSUBDKR.exe
+E:\ZRSUBDKR\ZRSUBDKR\bin\Debug\ZRSUBDKR.pdb
+E:\ZRSUBDKR\ZRSUBDKR\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+E:\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.csprojResolveAssemblyReference.cache
+E:\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.Form1.resources
+E:\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.Form2.resources
+E:\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.Form3.resources
+E:\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.Form4.resources
+E:\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.Properties.Resources.resources
+E:\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.csproj.GenerateResource.Cache
+D:\Users\parad\Desktop\ZRSUBDKR\ZRSUBDKR\bin\Debug\ZRSUBDKR.exe.config
+D:\Users\parad\Desktop\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.exe
+D:\Users\parad\Desktop\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.pdb
+D:\Users\parad\Desktop\ZRSUBDKR\ZRSUBDKR\bin\Debug\ZRSUBDKR.exe
+D:\Users\parad\Desktop\ZRSUBDKR\ZRSUBDKR\bin\Debug\ZRSUBDKR.pdb
+D:\Users\parad\Desktop\ZRSUBDKR\ZRSUBDKR\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Users\parad\Desktop\ZRSUBDKR\ZRSUBDKR\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+D:\Users\parad\Desktop\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.csprojResolveAssemblyReference.cache
+D:\Users\parad\Desktop\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.Form1.resources
+D:\Users\parad\Desktop\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.Form2.resources
+D:\Users\parad\Desktop\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.Form3.resources
+D:\Users\parad\Desktop\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.Form4.resources
+D:\Users\parad\Desktop\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.Properties.Resources.resources
+D:\Users\parad\Desktop\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.csproj.GenerateResource.Cache
+D:\Users\parad\Desktop\Учёба\Предметы\ЗРСУБД\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.csproj.CoreCompileInputs.cache
+D:\Users\parad\Desktop\Учёба\Предметы\ЗРСУБД\ZRSUBDKR\ZRSUBDKR\obj\Debug\ZRSUBDKR.csproj.CopyComplete
